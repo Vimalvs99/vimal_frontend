@@ -1,0 +1,28 @@
+.top-container{
+    background-color:#e4f9f5;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.resume-container{
+   
+    text-align: center; 
+}
+.tit{
+    align-items: center;
+}
+.centre{
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.space{
+    padding: 50px;
+    padding-bottom: 75px;
+}
+.footer{
+    background-color:#e4f9f5;
+}
